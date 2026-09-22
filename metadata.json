@@ -1,0 +1,6 @@
+{
+  "name": "Study Battle",
+  "description": "Educational competitive quiz platform where students can study, battle, earn points, maintain streaks, and climb leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
